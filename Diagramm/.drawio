@@ -25,8 +25,8 @@
                         <mxPoint x="349.5" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="295" y="320" width="110" height="110" as="geometry"/>
+                <mxCell id="7" value="&lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color: rgb(173 , 186 , 199) ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-smi&quot; style=&quot;box-sizing: border-box ; color: rgb(173 , 186 , 199) ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt;Length&lt;/span&gt;&lt;span style=&quot;color: rgb(173 , 186 , 199) ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-k&quot; style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt;&amp;lt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(173 , 186 , 199) ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; background-color: rgb(34 , 39 , 46)&quot;&gt;3&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="292.5" y="317.5" width="115" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -54,7 +54,7 @@
                 <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="13" target="3">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="13" value="Print WordArray &amp;lt;=3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="540" y="340" width="160" height="65" as="geometry"/>
                 </mxCell>
             </root>
